@@ -1,3 +1,3 @@
-    var banip="gggggggggggggg122.231.91.96 190.211.91.54 dasdasdsa 190.211.91.96  qwe 1922211.91.hhhhhhhh";
+    var banip="gggggggggggggg122.231.91.96 190.211.91.54 dasdasdsa 190.211.91.96  qwe 12211.91.hhhhhhhh";
  
 	
